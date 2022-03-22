@@ -1,0 +1,59 @@
+[2020-04-10 09:41:19 +0000] [12537] [INFO] Starting gunicorn 19.10.0
+[2020-04-10 09:41:25 +0000] [12742] [INFO] Starting gunicorn 19.10.0
+[2020-04-10 09:41:25 +0000] [12742] [INFO] Listening at: http://127.0.0.1:8000 (12742)
+[2020-04-10 09:41:25 +0000] [12742] [INFO] Using worker: sync
+[2020-04-10 09:41:25 +0000] [12783] [INFO] Booting worker with pid: 12783
+[2020-04-10 09:41:25 +0000] [12785] [INFO] Booting worker with pid: 12785
+[2020-04-10 09:52:04 +0000] [12742] [INFO] Handling signal: term
+[2020-04-10 09:52:04 +0000] [12783] [INFO] Worker exiting (pid: 12783)
+[2020-04-10 09:52:04 +0000] [12785] [INFO] Worker exiting (pid: 12785)
+[2020-04-10 09:52:05 +0000] [12742] [INFO] Shutting down: Master
+[2022-03-22 14:52:15 +0000] [1119] [INFO] Starting gunicorn 19.10.0
+[2022-03-22 14:52:15 +0000] [1119] [INFO] Listening at: http://127.0.0.1:8000 (1119)
+[2022-03-22 14:52:15 +0000] [1119] [INFO] Using worker: sync
+[2022-03-22 14:52:15 +0000] [1498] [INFO] Booting worker with pid: 1498
+[2022-03-22 14:52:15 +0000] [1502] [INFO] Booting worker with pid: 1502
+[2022-03-22 11:52:27 +0000] [1119] [INFO] Handling signal: term
+[2022-03-22 11:52:27 +0000] [1502] [INFO] Worker exiting (pid: 1502)
+[2022-03-22 11:52:27 +0000] [1498] [INFO] Worker exiting (pid: 1498)
+[2022-03-22 11:52:27 +0000] [1119] [INFO] Shutting down: Master
+[2022-03-22 11:52:32 +0000] [1869] [INFO] Starting gunicorn 19.10.0
+[2022-03-22 11:52:32 +0000] [1869] [INFO] Listening at: http://127.0.0.1:8000 (1869)
+[2022-03-22 11:52:32 +0000] [1869] [INFO] Using worker: sync
+[2022-03-22 11:52:32 +0000] [1997] [INFO] Booting worker with pid: 1997
+[2022-03-22 11:52:32 +0000] [1998] [INFO] Booting worker with pid: 1998
+[2022-03-22 12:16:04 +0000] [1869] [INFO] Handling signal: term
+[2022-03-22 12:16:04 +0000] [1997] [INFO] Worker exiting (pid: 1997)
+[2022-03-22 12:16:04 +0000] [1998] [INFO] Worker exiting (pid: 1998)
+[2022-03-22 12:16:05 +0000] [1869] [INFO] Shutting down: Master
+[2022-03-22 12:16:11 +0000] [2800] [INFO] Starting gunicorn 19.10.0
+[2022-03-22 12:16:11 +0000] [2800] [INFO] Listening at: http://127.0.0.1:8000 (2800)
+[2022-03-22 12:16:11 +0000] [2800] [INFO] Using worker: sync
+[2022-03-22 12:16:11 +0000] [2838] [INFO] Booting worker with pid: 2838
+[2022-03-22 12:16:11 +0000] [2839] [INFO] Booting worker with pid: 2839
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+[2022-03-22 14:06:44 +0000] [2800] [INFO] Handling signal: term
+[2022-03-22 14:06:44 +0000] [2839] [INFO] Worker exiting (pid: 2839)
+[2022-03-22 14:06:44 +0000] [2838] [INFO] Worker exiting (pid: 2838)
+[2022-03-22 14:06:44 +0000] [2800] [INFO] Shutting down: Master
+[2022-03-22 14:06:50 +0000] [4930] [INFO] Starting gunicorn 19.10.0
+[2022-03-22 14:06:50 +0000] [4930] [INFO] Listening at: http://127.0.0.1:8000 (4930)
+[2022-03-22 14:06:50 +0000] [4930] [INFO] Using worker: sync
+[2022-03-22 14:06:50 +0000] [4968] [INFO] Booting worker with pid: 4968
+[2022-03-22 14:06:51 +0000] [4969] [INFO] Booting worker with pid: 4969
+[2022-03-22 14:09:07 +0000] [4930] [INFO] Handling signal: term
+[2022-03-22 14:09:07 +0000] [4968] [INFO] Worker exiting (pid: 4968)
+[2022-03-22 14:09:07 +0000] [4969] [INFO] Worker exiting (pid: 4969)
+[2022-03-22 14:09:08 +0000] [4930] [INFO] Shutting down: Master
+[2022-03-22 14:09:13 +0000] [5066] [INFO] Starting gunicorn 19.10.0
+[2022-03-22 14:09:13 +0000] [5066] [INFO] Listening at: http://127.0.0.1:8000 (5066)
+[2022-03-22 14:09:13 +0000] [5066] [INFO] Using worker: sync
+[2022-03-22 14:09:13 +0000] [5104] [INFO] Booting worker with pid: 5104
+[2022-03-22 14:09:13 +0000] [5105] [INFO] Booting worker with pid: 5105
