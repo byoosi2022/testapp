@@ -598,3 +598,154 @@ Traceback (most recent call last):
     raise raise_exception(msg)
 frappe.exceptions.ValidationError: Naming Series mandatory
 
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 22, in savedocs
+    doc.save()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 273, in save
+    return self._save(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 309, in _save
+    self.run_before_save_methods()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 895, in run_before_save_methods
+    self.run_method("validate")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 794, in run_method
+    out = Document.hook(fn)(self, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 1065, in composer
+    return composed(self, method, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 1048, in runner
+    add_to_return_value(self, fn(self, *args, **kwargs))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 788, in <lambda>
+    fn = lambda self, *args, **kwargs: getattr(self, method)(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/data_import.py", line 29, in validate
+    upload(data_import_doc=self, from_data_import="Yes", validate_template=True)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/importer.py", line 297, in upload
+    start_row = get_start_row()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/importer.py", line 87, in get_start_row
+    bad_template()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/importer.py", line 77, in bad_template
+    frappe.throw(_("Please do not change the rows above {0}").format(get_data_keys_definition().data_separator))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 377, in throw
+    msgprint(msg, raise_exception=exc, title=title, indicator='red', is_minimizable=is_minimizable)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 356, in msgprint
+    _raise_exception()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 316, in _raise_exception
+    raise raise_exception(msg)
+frappe.exceptions.ValidationError: Please do not change the rows above Start entering data below this line
+
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 61, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 1054, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 22, in savedocs
+    doc.save()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 273, in save
+    return self._save(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 309, in _save
+    self.run_before_save_methods()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 895, in run_before_save_methods
+    self.run_method("validate")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 794, in run_method
+    out = Document.hook(fn)(self, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 1065, in composer
+    return composed(self, method, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 1048, in runner
+    add_to_return_value(self, fn(self, *args, **kwargs))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 788, in <lambda>
+    fn = lambda self, *args, **kwargs: getattr(self, method)(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/data_import.py", line 29, in validate
+    upload(data_import_doc=self, from_data_import="Yes", validate_template=True)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/importer.py", line 297, in upload
+    start_row = get_start_row()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/importer.py", line 87, in get_start_row
+    bad_template()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/importer.py", line 77, in bad_template
+    frappe.throw(_("Please do not change the rows above {0}").format(get_data_keys_definition().data_separator))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 377, in throw
+    msgprint(msg, raise_exception=exc, title=title, indicator='red', is_minimizable=is_minimizable)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 356, in msgprint
+    _raise_exception()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 316, in _raise_exception
+    raise raise_exception(msg)
+frappe.exceptions.ValidationError: Please do not change the rows above Start entering data below this line
+
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 22, in savedocs
+    doc.save()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 273, in save
+    return self._save(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 309, in _save
+    self.run_before_save_methods()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 895, in run_before_save_methods
+    self.run_method("validate")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 794, in run_method
+    out = Document.hook(fn)(self, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 1065, in composer
+    return composed(self, method, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 1048, in runner
+    add_to_return_value(self, fn(self, *args, **kwargs))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 788, in <lambda>
+    fn = lambda self, *args, **kwargs: getattr(self, method)(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/data_import.py", line 29, in validate
+    upload(data_import_doc=self, from_data_import="Yes", validate_template=True)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/importer.py", line 297, in upload
+    start_row = get_start_row()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/importer.py", line 87, in get_start_row
+    bad_template()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/importer.py", line 77, in bad_template
+    frappe.throw(_("Please do not change the rows above {0}").format(get_data_keys_definition().data_separator))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 377, in throw
+    msgprint(msg, raise_exception=exc, title=title, indicator='red', is_minimizable=is_minimizable)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 356, in msgprint
+    _raise_exception()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 316, in _raise_exception
+    raise raise_exception(msg)
+frappe.exceptions.ValidationError: Please do not change the rows above Start entering data below this line
+
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 61, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 1054, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 22, in savedocs
+    doc.save()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 273, in save
+    return self._save(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 309, in _save
+    self.run_before_save_methods()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 895, in run_before_save_methods
+    self.run_method("validate")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 794, in run_method
+    out = Document.hook(fn)(self, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 1065, in composer
+    return composed(self, method, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 1048, in runner
+    add_to_return_value(self, fn(self, *args, **kwargs))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 788, in <lambda>
+    fn = lambda self, *args, **kwargs: getattr(self, method)(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/data_import.py", line 29, in validate
+    upload(data_import_doc=self, from_data_import="Yes", validate_template=True)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/importer.py", line 297, in upload
+    start_row = get_start_row()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/importer.py", line 87, in get_start_row
+    bad_template()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/data_import/importer.py", line 77, in bad_template
+    frappe.throw(_("Please do not change the rows above {0}").format(get_data_keys_definition().data_separator))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 377, in throw
+    msgprint(msg, raise_exception=exc, title=title, indicator='red', is_minimizable=is_minimizable)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 356, in msgprint
+    _raise_exception()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 316, in _raise_exception
+    raise raise_exception(msg)
+frappe.exceptions.ValidationError: Please do not change the rows above Start entering data below this line

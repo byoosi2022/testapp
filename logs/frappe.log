@@ -1,504 +1,72 @@
-[DEBUG] 2022-03-22 11:55:39,188 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:03:33,855 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 11:56:39,629 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:04:34,149 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 11:57:40,360 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:05:34,279 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 11:58:40,820 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:06:34,651 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 11:59:41,387 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:07:35,035 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:00:41,918 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:08:35,656 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:01:42,091 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:09:35,895 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:02:42,361 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:10:36,175 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:03:42,627 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:11:36,526 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:04:43,156 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:12:37,028 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:05:43,832 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:13:37,470 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:06:44,028 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:14:37,823 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:07:44,388 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:15:38,118 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:08:44,951 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:16:38,488 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:09:45,558 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:17:39,033 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:10:46,118 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:18:39,366 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:11:46,362 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-23 12:19:39,600 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:12:47,062 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-26 07:56:03,970 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:13:47,267 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-26 07:57:04,321 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:14:47,436 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-26 07:58:04,492 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:15:47,578 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-26 07:59:04,680 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:17:14,614 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-26 08:00:05,107 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:18:15,068 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-26 08:01:05,539 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
-[DEBUG] 2022-03-22 12:19:15,561 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:20:16,115 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:21:16,435 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:22:16,807 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:23:17,365 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:24:17,763 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:25:18,345 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:26:18,761 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:27:19,204 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:28:19,669 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:29:20,242 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:30:20,411 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:31:20,660 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:32:21,043 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:33:21,203 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:34:21,975 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:35:22,224 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:36:22,451 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:37:23,137 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:38:23,281 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:39:23,778 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:40:24,475 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:41:24,758 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:42:24,946 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:43:25,301 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:44:25,879 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:45:26,015 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:46:26,494 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:47:27,064 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:48:27,327 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:49:27,697 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:50:28,695 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:51:29,087 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:52:29,725 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:53:30,439 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:54:30,834 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:55:31,135 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:56:32,067 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:57:32,803 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:58:33,113 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 12:59:33,432 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:00:34,071 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:01:34,798 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:02:35,168 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:03:35,919 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:04:36,662 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:05:37,119 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:06:37,334 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:07:37,474 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:08:37,735 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:09:38,406 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[ERROR] 2022-03-22 13:10:23,091 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
-Site: site1.local
-Form Dict: {
- "action": "Save",
- "cmd": "frappe.desk.form.save.savedocs",
- "doc": "{\"docstatus\":0,\"doctype\":\"Custom App\",\"name\":\"New Custom App 1\",\"__islocal\":1,\"__unsaved\":1,\"owner\":\"Administrator\",\"n_app\":\"Mobile App\",\"country_permanent_address\":\"Byoosi Mbale\"}"
-}
-Request Error
-Traceback (most recent call last):
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
-    response = frappe.api.handle()
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
-    return frappe.handler.handle()
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
-    data = execute_cmd(cmd)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 61, in execute_cmd
-    return frappe.call(method, **frappe.form_dict)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 1054, in call
-    return fn(*args, **newargs)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 22, in savedocs
-    doc.save()
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 273, in save
-    return self._save(*args, **kwargs)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 296, in _save
-    self.insert()
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 225, in insert
-    self.set_new_name()
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 393, in set_new_name
-    set_new_name(self)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/naming.py", line 42, in set_new_name
-    set_name_from_naming_options(autoname, doc)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/naming.py", line 71, in set_name_from_naming_options
-    set_name_by_naming_series(doc)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/naming.py", line 81, in set_name_by_naming_series
-    if not doc.naming_series:
-AttributeError: 'Document' object has no attribute 'naming_series'
-[ERROR] 2022-03-22 13:10:23,255 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
-Could not take error snapshot: invalid syntax (<string>, line 1)
-Traceback (most recent call last):
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
-    response = frappe.api.handle()
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
-    return frappe.handler.handle()
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
-    data = execute_cmd(cmd)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 61, in execute_cmd
-    return frappe.call(method, **frappe.form_dict)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 1054, in call
-    return fn(*args, **newargs)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 22, in savedocs
-    doc.save()
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 273, in save
-    return self._save(*args, **kwargs)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 296, in _save
-    self.insert()
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 225, in insert
-    self.set_new_name()
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 393, in set_new_name
-    set_new_name(self)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/naming.py", line 42, in set_new_name
-    set_name_from_naming_options(autoname, doc)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/naming.py", line 71, in set_name_from_naming_options
-    set_name_by_naming_series(doc)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/naming.py", line 81, in set_name_by_naming_series
-    if not doc.naming_series:
-AttributeError: 'Document' object has no attribute 'naming_series'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
-    snapshot = get_snapshot(exception)
-  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 132, in get_snapshot
-    value = eval(value)
-  File "<string>", line 1
-    <built-in method with_traceback of AttributeError object>
-    ^
-SyntaxError: invalid syntax
-[DEBUG] 2022-03-22 13:10:38,690 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:11:39,109 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:12:39,496 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:13:39,893 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:14:40,194 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:15:40,501 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:16:40,870 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:17:41,189 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:18:41,439 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:19:41,927 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:20:42,408 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:21:42,795 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:22:43,412 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:23:43,739 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:24:44,069 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:25:44,446 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:26:44,860 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:27:45,171 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:28:45,534 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:29:45,872 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:30:46,260 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:31:46,620 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:32:47,053 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:33:47,811 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:34:48,033 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:35:48,304 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:36:48,780 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:37:48,904 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:38:49,028 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:39:49,140 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:40:49,356 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:41:49,704 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:42:49,878 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:43:50,220 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:44:50,466 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:45:50,804 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:46:51,085 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:47:51,824 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:48:52,143 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:49:52,363 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:50:52,697 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:51:53,157 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:52:53,755 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:53:54,047 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:54:54,583 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:55:55,153 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:56:55,456 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:57:55,712 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:58:56,161 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 13:59:56,502 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:00:56,822 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:01:57,582 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:02:58,084 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:03:59,010 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:04:59,608 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:05:59,734 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:07:55,603 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:08:55,990 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:10:17,025 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:11:17,415 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:12:18,224 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:13:18,419 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:14:18,578 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:15:18,788 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:16:18,994 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:17:19,243 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:18:19,387 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: site1.local
-Queued events for site site1.local
-[DEBUG] 2022-03-22 14:19:19,852 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2022-03-26 08:02:06,135 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: site1.local
 Queued events for site site1.local
